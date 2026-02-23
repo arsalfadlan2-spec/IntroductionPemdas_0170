@@ -9,7 +9,7 @@ int main(){//program utama
     int age; //variable local
     int age1; //variable local
     age = 20;
-    age1 = 10;
+    age1 = 19;
 
     cout << "Halo world" << endl;
     cout << 99 << endl;
