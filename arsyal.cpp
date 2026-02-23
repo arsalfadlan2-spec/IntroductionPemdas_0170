@@ -16,3 +16,9 @@ int main(){//program utama
     cout << age;
     cout << age1;
 }
+
+ int main(){//program utama
+    int weight; //variable local
+    weight = 69;
+    cout << weight;
+}
